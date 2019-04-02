@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TesteAlelo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 006_fvfx20w1j1wv
+Implementation-Vendor-Id: fernando.teste.alelo
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TesteAlelo
+Created-By: Maven Integration for Eclipse
+

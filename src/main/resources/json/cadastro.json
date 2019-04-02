@@ -1,0 +1,26 @@
+[
+	{
+		"nomeFilme": "Avangers",
+		"dataLancamento": "23042018",
+		"diretor": {
+			"nomeDiretor": "Joss Whedon",
+			"datanascimento": "23061954"
+		}
+	},
+	{
+		"nomeFilme": "Velozes e Furiosos",
+		"dataLancamento": "28072001",
+		"diretor": {
+			"nomeDiretor": "Rob Cohen",
+			"datanascimento": "12031949"
+		}
+	},
+	{
+		"nomeFilme": "Piratas do Caribe",
+		"dataLancamento": "25052017",
+		"diretor": {
+			"nomeDiretor": "Gore Verbinski",
+			"datanascimento": "16031964"
+		}
+	}
+]
